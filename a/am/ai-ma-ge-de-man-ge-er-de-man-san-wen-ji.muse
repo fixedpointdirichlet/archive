@@ -7,6 +7,7 @@
 #lang zh
 #pubdate 2022-01-01T04:51:29
 #notes 作者原名为Emma Goldman。本文原名为Anarchism and Other Essays。
+
 ** 爱玛·戈尔德曼简介
 
 <quote>
