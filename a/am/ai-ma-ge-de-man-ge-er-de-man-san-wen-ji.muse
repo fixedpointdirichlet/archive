@@ -1,3 +1,4 @@
+#cover a-m-ai-ma-ge-de-man-ge-er-de-man-san-wen-ji-1.jpg
 #title 戈尔德曼散文集
 #subtitle 无政府主义与其他
 #author 爱玛·戈德曼
@@ -5,7 +6,7 @@
 #source 于2022-01-01于https://www.marxists.org/chinese/emma-goldman/1910/index.htm拾获
 #lang zh
 #pubdate 2022-01-01T04:51:29
-
+#notes 作者原名为Emma Goldman。本文原名为Anarchism and Other Essays。
 ** 爱玛·戈尔德曼简介
 
 <quote>
