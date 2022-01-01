@@ -5,7 +5,7 @@
 #SORTtopics 叛乱无政府主义, 共产化, 叛乱
 #date 2014
 #lang zh
-#pubdate 2021-12-31T23:00:00
+#pubdate 2022-01-01T16:00:00
 
 
 ** <strong><strong><strong>译者导言</strong></strong></strong>
