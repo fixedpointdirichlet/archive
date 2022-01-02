@@ -1,3 +1,4 @@
+#cover o-d-ocalan-democratic-confedaralism-1.jpg
 #title 民主邦联主义
 #author 阿卜杜拉·奥贾兰
 #SORTtopics 民主邦联主义
@@ -7,6 +8,7 @@
 #lang zh
 #pubdate 2022-01-02T11:11:00
 #notes Abdullah Öcalan, Democratic Confederalism，译者「爱国财人人有份」（微信公号）译自英译本<em>The Political Thought of Abdullah Öcalan: Kurdistan, Women's Revolution and Democratic Confederalism</em> (Pluto, 2017)
+#teaser 民主邦联主义向其他政治团体和派别开放。它是灵活的、多文化的、反垄断的和共识取向的。生态学和女性主义是核心支柱。在这种自治的框架下，需要一种替代经济，来增加而非剥削社会的资源，从而公正地满足社会的多种需求。
 
 
 ** 引言
