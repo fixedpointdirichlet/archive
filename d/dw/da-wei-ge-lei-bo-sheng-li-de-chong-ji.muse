@@ -4,7 +4,7 @@
 #SORTtopics 直接行动
 #date 2007
 #source 于2022-01-03从https://www.iyouport.org/打破得意和绝望的循环-大卫·格雷伯：胜利的冲击/拾获
-#lang tr
+#lang zh
 #pubdate 2022-01-03T09:22:09
 #notes 原题为The Shock of Victory。
 #teaser 我们并不生活在乌托邦。这一点我们已经了解。但问题在于，为什么我们向来注意不到我们的胜利。
