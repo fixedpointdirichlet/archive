@@ -1,7 +1,7 @@
 #cover m-h-mi-ha-yi-er-ba-ku-zhu-shang-di-yu-guo-jia-1.jpg
 #title 上帝与国家
 #author 米哈伊尔·巴枯宁
-#SORTtopics 无神论，古典，宗教，国家
+#SORTtopics 无神论,古典,宗教,国家
 #date 1882
 #lang zh
 #pubdate 2022-01-02T12:48:12
