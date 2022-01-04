@@ -6,7 +6,7 @@
 #source 于2022-01-04从https://zhuanlan.zhihu.com/p/426914834拾获
 #lang zh
 #pubdate 2022-01-04T13:25:58
-#notes <em>Red & Black Revolution</em>, No. 15 — Spring 2009.
+#notes <em>Complex systems theory & anarchism</em>, Gavin Mendel-Gleeson. <em>Red & Black Revolution</em>, No. 15 — Spring 2009.
 #notoc 1
 #teaser 将人类社会作为复杂系统进行分析，能为我们提供对于历史进程以及资本主义的强项与弱点的新的见解。
 
